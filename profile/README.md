@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h3 align="center">Entreprise de travaux public basée dans le Jura(39)</h3>
+<h3 align="center">Public works company based in the Jura department (39) in France</h3>
 <p align="center">
-  Vous retrouverez ici tous les projets informatiques de l'entreprise GoyardTP 👷🚛
+  Open source projects by GoyardTP 👷🚛
 </p>
 <p align="center">
-  <a href="mailTo:contact@goyardtp.com">Contactez-nous 💬</a>
+  <a href="mailTo:contact@goyardtp.com">Contact us 💬</a>
 </p>
