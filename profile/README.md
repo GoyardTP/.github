@@ -4,5 +4,10 @@
   </a>
 </p>
 
-<h3 align="center">Entreprise de travaux public basée dans le Jura(39), France</h3>
-<p align="center">Vous retrouverez ici tous les projets publics de GoyardTP.</p>
+<h3 align="center">Entreprise de travaux public basée dans le Jura(39)</h3>
+<p align="center">
+  Vous retrouverez ici tous les projets informatiques de l'entreprise GoyardTP 👷🚛
+</p>
+<p align="center">
+  <a href="mailTo:contact@goyardtp.com">Contactez-nous 💬</a>
+</p>
