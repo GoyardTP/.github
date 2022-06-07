@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.qovery.com">
+  <a href="">
     <img src="https://raw.githubusercontent.com/GoyardTP/public-resources/main/goyard_new_logo.svg" width="318px" alt="GoyardTP logo"/>
   </a>
 </p>
