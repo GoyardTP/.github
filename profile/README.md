@@ -9,5 +9,4 @@
   Open source projects by GoyardTP 👷🚛
 </p>
 <p align="center">
-  <a href="mailTo:contact@goyardtp.com">Contact us 💬</a>
 </p>
