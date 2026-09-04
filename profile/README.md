@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="https://logo.hugogoyard.fr/goyard_logo_full.svg" width="318px" alt="GoyardTP logo"/>
+    <img src="https://cdn.goyardtp.fr/images/logo/goyard_logo_full.svg" width="318px" alt="GoyardTP logo"/>
   </a>
 </p>
 
